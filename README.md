@@ -10,7 +10,7 @@
 ## 1. Diferenças em relação às versões anteriores
 
 |                                   | v1 | v2 | v3 |
-|                                   |    |    |    |
+|---                                |--- |---  |--- |
 | Slow Start                        | ✅ | ✅ | ✅|
 | Congestion Avoidance              | ✅ | ✅ | ✅|
 | Timeout                           | ✅ | ✅ | ✅|
